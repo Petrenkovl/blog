@@ -1,0 +1,13 @@
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src:url('../font/OpenSans-Regular.ttf');
+}
+@font-face {
+  font-family: 'Socialico';
+  font-weight:normal;
+  font-style:normal;
+  src:url('../font/Socialico.ttf');
+}
